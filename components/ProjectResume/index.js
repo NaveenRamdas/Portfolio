@@ -1,7 +1,19 @@
 import React from "react";
 
 const ProjectResume = ({ dates, type, position, bullets }) => {
-  const [bulletsLocal, setBulletsLocal] = React.useState(bullets.split(","));
+  // Check if bullets is a string before splitting
+  const [bulletsLocal, setBulletsLocal] = React.useState(
+    typeof bullets === "string" ? bullets.split(",") : []
+  );
+
+  // Optional: Update the bulletsLocal state if bullets prop changes
+  React.useEffect(() => {
+    if (typeof bullets === "string") {
+      setBulletsLocal(bullets.split(","));
+    } else {
+      setBulletsLocal([]);
+    }
+  }, [bullets]);
 
   return (
     <div className="mt-5 w-full flex mob:flex-col desktop:flex-row justify-between">

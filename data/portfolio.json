@@ -1,1 +1,91 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Naveen R",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Naveen R - curious",
+  "headerTaglineThree": "Frontend Devloper",
+  "headerTaglineFour": " based in Bengaluru, Karnataka, India.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/NaveenRamdas" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/naveen21r"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:naveenramdas007@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Seoak",
+      "description": "Educational Web Application",
+      "imageSrc": "/images/1.png",
+      "url": "http://seoak.in/"
+    },
+    {
+      "id": "2",
+      "title": "SeTu",
+      "description": "Game Web Application",
+      "imageSrc": "/images/2.png",
+      "url": "https://www.n-gage.co.in/setu_game/login"
+    },
+    {
+      "id": "3",
+      "title": "Aulas",
+      "description": "Educational Web Application",
+      "imageSrc": "/images/3.png",
+      "url": "http://aulas.in/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Development",
+      "description": "We specialize in creating high-performing, visually captivating websites. Our web development services focus on delivering responsive, user-friendly designs that are optimized for performance, scalability, and SEO. Whether it's building custom websites, web applications, or ensuring seamless integration with backend systems, we make sure your online presence stands out."
+    },
+    {
+      "id": "2",
+      "title": "Frontend Development",
+      "description": "Our frontend development services bring designs to life with clean, efficient code. We focus on creating dynamic, responsive, and interactive user interfaces that enhance user experience. Leveraging modern technologies like React.js, HTML, CSS, and JavaScript, we ensure your website not only looks great but also functions flawlessly across all devices."
+    }
+  ],
+  "aboutpara": "Driven Front-End Developer with 2 years of experience delivering responsive, high-performance web applications using React.js. Proficient in transforming UI/UX designs into clean, efficient code while optimizing user interactions for seamless digital experiences. Demonstrated expertise in collaborating with cross-functional teams to architect innovative solutions, streamline workflows, and improve development efficiency. Dedicated to staying at the forefront of industry advancements, continually integrating cutting-edge technologies and best practices to propel project success. Let’s connect and collaborate on building exceptional web experiences that drive results.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer.",
+    "description": "I have delivered world-class user experiences to several  people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2024 - October 2024",
+        "type": "Freelancing",
+        "position": "Frontend Developer at Seoak",
+        "bullets": "Developed a static responsive ed-tech web application using Next.js and React.js focusing on user experience and scalability. , Implemented payment integration via Easebuzz and enabled syllabus downloads to streamline course purchasing. , Boosted organization growth by 45% through SEO optimization and seamless user interaction features"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "April 2024 - September 2024",
+        "type": "Freelancing",
+        "position": "Frontend Developer at TGC technologies Pvt Ltd",
+        "bullets": "Developed a dynamic game platform using JavaScript HTML CSS Redux and React.js., Enhanced player engagement through an interactive dice gaming experience.,•\tAssessed player decisions and awarded tokens to improve user retention."
+      },
+      {
+        "id": "74fa3dd4-3c77-47db-980b-18b250f4ccfe",
+        "dates": "August-2022 - April 2024",
+        "type": "Full Time",
+        "position": "Junior Software Engineer at Brigosha Technologies Pvt Ltd",
+        "bullets": "Created and maintained web applications with React.js JavaScript HTML CSS and Redux., Integrated RESTful APIs with backend teams boosting system functionality by 90%., Increased mobile user engagement by 50% with responsive design using CSS media queries."
+      }
+    ],
+    "education": {
+      "universityName": "MVJ College of Engineering",
+      "universityDate": "2018-2022",
+      "universityPara": "Completed a Bachelor's degree in Computer Science with a GPA of 7.2/10, demonstrating a solid foundation in core computing concepts and technical proficiency."
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "C"],
+    "frameworks": ["ReactJS", "NextJS", "Angular"],
+    "others": ["Figma", "AdobeXD", "Redux", "Linux", "GitHub", "EC2"]
+  }
+}
