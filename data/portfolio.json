@@ -2,7 +2,7 @@
   "name": "Naveen R",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Naveen R - curious",
-  "headerTaglineThree": "Frontend Devloper",
+  "headerTaglineThree": "Frontend Developer",
   "headerTaglineFour": " based in Bengaluru, Karnataka, India.",
   "showCursor": true,
   "showBlog": false,
@@ -37,7 +37,7 @@
       "title": "Aulas",
       "description": "Educational Web Application",
       "imageSrc": "/images/3.png",
-      "url": "http://aulas.in/"
+      "url": "https://ashreya.aulas.in/"
     }
   ],
   "services": [
