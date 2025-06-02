@@ -1,91 +1,124 @@
 {
-  "name": "Naveen R",
-  "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Naveen R - curious",
-  "headerTaglineThree": "Frontend Developer",
-  "headerTaglineFour": " based in Bengaluru, Karnataka, India.",
-  "showCursor": true,
-  "showBlog": false,
-  "darkMode": true,
-  "showResume": true,
-  "socials": [
-    { "id": "1", "title": "Github", "link": "https://github.com/NaveenRamdas" },
-    {
-      "id": "2",
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/naveen21r"
-    },
-    { "id": "5", "title": "Email", "link": "mailto:naveenramdas007@gmail.com" }
-  ],
-  "projects": [
-    {
-      "id": "1",
-      "title": "Seoak",
-      "description": "Educational Web Application",
-      "imageSrc": "/images/1.png",
-      "url": "http://seoak.in/"
-    },
-    {
-      "id": "2",
-      "title": "SeTu",
-      "description": "Game Web Application",
-      "imageSrc": "/images/2.png",
-      "url": "https://www.n-gage.co.in/setu_game/login"
-    },
-    {
-      "id": "3",
-      "title": "Aulas",
-      "description": "Educational Web Application",
-      "imageSrc": "/images/3.png",
-      "url": "https://ashreya.aulas.in/"
-    }
-  ],
-  "services": [
-    {
-      "id": "1",
-      "title": "Web Development",
-      "description": "We specialize in creating high-performing, visually captivating websites. Our web development services focus on delivering responsive, user-friendly designs that are optimized for performance, scalability, and SEO. Whether it's building custom websites, web applications, or ensuring seamless integration with backend systems, we make sure your online presence stands out."
-    },
-    {
-      "id": "2",
-      "title": "Frontend Development",
-      "description": "Our frontend development services bring designs to life with clean, efficient code. We focus on creating dynamic, responsive, and interactive user interfaces that enhance user experience. Leveraging modern technologies like React.js, HTML, CSS, and JavaScript, we ensure your website not only looks great but also functions flawlessly across all devices."
-    }
-  ],
-  "aboutpara": "Driven Front-End Developer with 2 years of experience delivering responsive, high-performance web applications using React.js. Proficient in transforming UI/UX designs into clean, efficient code while optimizing user interactions for seamless digital experiences. Demonstrated expertise in collaborating with cross-functional teams to architect innovative solutions, streamline workflows, and improve development efficiency. Dedicated to staying at the forefront of industry advancements, continually integrating cutting-edge technologies and best practices to propel project success. Let’s connect and collaborate on building exceptional web experiences that drive results.",
-  "resume": {
-    "tagline": "👋  I'm a software engineer.",
-    "description": "I have delivered world-class user experiences to several  people. Well-versed with React, Javascript, and most of the Web frameworks.",
-    "experiences": [
-      {
-        "id": "1",
-        "dates": "April 2024 - October 2024",
-        "type": "Freelancing",
-        "position": "Frontend Developer at Seoak",
-        "bullets": "Developed a static responsive ed-tech web application using Next.js and React.js focusing on user experience and scalability. , Implemented payment integration via Easebuzz and enabled syllabus downloads to streamline course purchasing. , Boosted organization growth by 45% through SEO optimization and seamless user interaction features"
-      },
-      {
-        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "April 2024 - September 2024",
-        "type": "Freelancing",
-        "position": "Frontend Developer at TGC technologies Pvt Ltd",
-        "bullets": "Developed a dynamic game platform using JavaScript HTML CSS Redux and React.js., Enhanced player engagement through an interactive dice gaming experience.,•\tAssessed player decisions and awarded tokens to improve user retention."
-      },
-      {
-        "id": "74fa3dd4-3c77-47db-980b-18b250f4ccfe",
-        "dates": "August-2022 - April 2024",
-        "type": "Full Time",
-        "position": "Junior Software Engineer at Brigosha Technologies Pvt Ltd",
-        "bullets": "Created and maintained web applications with React.js JavaScript HTML CSS and Redux., Integrated RESTful APIs with backend teams boosting system functionality by 90%., Increased mobile user engagement by 50% with responsive design using CSS media queries."
-      }
+    "name": "Naveen R",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Naveen R - curious",
+    "headerTaglineThree": "Frontend Developer",
+    "headerTaglineFour": " based in Bengaluru, Karnataka, India.",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/NaveenRamdas"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/naveen21r"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:naveenramdas007@gmail.com"
+        }
     ],
-    "education": {
-      "universityName": "MVJ College of Engineering",
-      "universityDate": "2018-2022",
-      "universityPara": "Completed a Bachelor's degree in Computer Science with a GPA of 7.2/10, demonstrating a solid foundation in core computing concepts and technical proficiency."
-    },
-    "languages": ["Javascript", "HTML5", "CSS", "Python", "C"],
-    "frameworks": ["ReactJS", "NextJS", "Angular"],
-    "others": ["Figma", "AdobeXD", "Redux", "Linux", "GitHub", "EC2"]
-  }
+    "projects": [
+        {
+            "id": "1",
+            "title": "Seoak",
+            "description": "Educational Web Application",
+            "imageSrc": "/images/1.png",
+            "url": "http://seoak.in/"
+        },
+        {
+            "id": "2",
+            "title": "SeTu",
+            "description": "Game Web Application",
+            "imageSrc": "/images/2.png",
+            "url": "https://www.n-gage.co.in/setu_game/login"
+        },
+        {
+            "id": "3",
+            "title": "Aulas",
+            "description": "Educational Web Application",
+            "imageSrc": "/images/3.png",
+            "url": "https://ashreya.aulas.in/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Web Development",
+            "description": "We specialize in creating high-performing, visually captivating websites. Our web development services focus on delivering responsive, user-friendly designs that are optimized for performance, scalability, and SEO. Whether it's building custom websites, web applications, or ensuring seamless integration with backend systems, we make sure your online presence stands out."
+        },
+        {
+            "id": "2",
+            "title": "Frontend Development",
+            "description": "Our frontend development services bring designs to life with clean, efficient code. We focus on creating dynamic, responsive, and interactive user interfaces that enhance user experience. Leveraging modern technologies like React.js, HTML, CSS, and JavaScript, we ensure your website not only looks great but also functions flawlessly across all devices."
+        }
+    ],
+    "aboutpara": "Driven Front-End Developer with 2 years of experience delivering responsive, high-performance web applications using React.js. Proficient in transforming UI/UX designs into clean, efficient code while optimizing user interactions for seamless digital experiences. Demonstrated expertise in collaborating with cross-functional teams to architect innovative solutions, streamline workflows, and improve development efficiency. Dedicated to staying at the forefront of industry advancements, continually integrating cutting-edge technologies and best practices to propel project success. Let’s connect and collaborate on building exceptional web experiences that drive results.",
+    "resume": {
+        "tagline": "👋  I'm a Software Engineer.",
+        "description": "I have delivered world-class user experiences to several  people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "Jan  2025 - Present",
+                "type": "Full Time",
+                "position": "Software Engineer at OpenTurf Technologies Pvt Ltd",
+                "bullets": "Worked on a fintech application developing and maintaining critical modules such as BizOps Treasury and Liquidity to support seamless and secure financial operations., Built responsive and user-friendly frontend interfaces using React.js with API integration handled through Axios for real-time data updates.,Developed scalable secure and high-performance backend services using Node.js ensuring reliability in handling financial transactions.,Implemented detailed Audit Logs to enhance system traceability meet compliance standards and support internal monitoring and debugging.,Refactored backend services through Routes Cleanup improving code quality maintainability and overall system performance."
+            },
+            {
+                "id": "2",
+                "dates": "April 2024 - October 2024",
+                "type": "Freelancing",
+                "position": "Frontend Developer at Seoak",
+                "bullets": "Developed a static responsive ed-tech web application using Next.js and React.js focusing on user experience and scalability. , Implemented payment integration via Easebuzz and enabled syllabus downloads to streamline course purchasing. , Boosted organization growth by 45% through SEO optimization and seamless user interaction features"
+            },
+            {
+                "id": "3",
+                "dates": "April 2024 - September 2024",
+                "type": "Freelancing",
+                "position": "Frontend Developer at TGC technologies Pvt Ltd",
+                "bullets": "Developed a dynamic game platform using JavaScript HTML CSS Redux and React.js., Enhanced player engagement through an interactive dice gaming experience.,•\tAssessed player decisions and awarded tokens to improve user retention."
+            },
+            {
+                "id": "4",
+                "dates": "August-2022 - April 2024",
+                "type": "Full Time",
+                "position": "Junior Software Engineer at Brigosha Technologies Pvt Ltd",
+                "bullets": "Created and maintained web applications with React.js JavaScript HTML CSS and Redux., Integrated RESTful APIs with backend teams boosting system functionality by 90%., Increased mobile user engagement by 50% with responsive design using CSS media queries."
+            }
+        ],
+        "education": {
+            "universityName": "MVJ College of Engineering",
+            "universityDate": "2018-2022",
+            "universityPara": "Completed a Bachelor's degree in Computer Science with a GPA of 7.2/10, demonstrating a solid foundation in core computing concepts and technical proficiency."
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "C"
+        ],
+        "frameworks": [
+            "ReactJS",
+            "NextJS",
+            "Angular"
+        ],
+        "others": [
+            "Node JS",
+            "Figma",
+            "AdobeXD",
+            "Redux",
+            "Linux",
+            "GitHub",
+            "EC2"
+        ]
+    }
 }
