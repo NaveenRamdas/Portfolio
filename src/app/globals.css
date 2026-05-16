@@ -90,6 +90,24 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   border: 1px solid rgba(255,255,255,0.07);
 }
 
+.ai-toolkit-logo {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: var(--r-xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
+
+.ai-toolkit-logo img {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: var(--r-lg);
+}
+
 
 /* ============================================================
    GRADIENT HELPERS
@@ -640,9 +658,10 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 /* ============================================================
    OBJECT FIT (next/image)
    ============================================================ */
-.object-cover  { object-fit: cover; }
-.object-top    { object-position: top; }
-.object-center { object-position: center; }
+.object-contain { object-fit: contain; }
+.object-cover   { object-fit: cover; }
+.object-top     { object-position: top; }
+.object-center  { object-position: center; }
 
 
 /* ============================================================

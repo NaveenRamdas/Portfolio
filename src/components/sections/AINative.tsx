@@ -1,8 +1,9 @@
 "use client";
 
 import { useRef, useState, useEffect } from "react";
+import Image from "next/image";
 import { motion, useInView, AnimatePresence } from "framer-motion";
-import { Sparkles, Terminal, Zap, Brain, Code2, ArrowRight } from "lucide-react";
+import { Terminal, Zap, Brain, Code2 } from "lucide-react";
 import { AI_TOOLS } from "@/lib/constants";
 import { fadeInUp, staggerContainer } from "@/lib/motion";
 
@@ -210,16 +211,19 @@ export default function AINative() {
                 transition={{ delay: 0.5 + i * 0.1, type: "spring", bounce: 0.3 }}
                 className="group glass rounded-2xl p-5 border border-white/5 hover:border-white/10 transition-all text-center cursor-default"
                 whileHover={{ y: -6, scale: 1.03 }}
-                style={{
-                  boxShadow: undefined,
-                }}
               >
-                <div
-                  className="text-3xl mb-3 w-12 h-12 rounded-xl flex items-center justify-center mx-auto"
-                  style={{ backgroundColor: tool.color + "15" }}
+                <motion.div
+                  className="ai-toolkit-logo mb-3 mx-auto"
+                  style={{ backgroundColor: tool.logoBg }}
                 >
-                  {tool.icon}
-                </div>
+                  <Image
+                    src={tool.logo}
+                    alt={`${tool.name} logo`}
+                    width={40}
+                    height={40}
+                    style={{ objectFit: "contain" }}
+                  />
+                </motion.div>
                 <h4 className="font-semibold text-foreground text-sm mb-1">{tool.name}</h4>
                 <p className="text-muted text-xs leading-snug mb-2">{tool.description}</p>
                 <span
